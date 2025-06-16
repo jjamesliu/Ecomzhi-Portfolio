@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  margin: 50px auto;
+  padding-bottom: 30px;
+  max-width: 600px;
+  text-align:center;
+  background-color: #1a1b21;
+  border-radius: 10px 10px 10px 10px;
+
+}
+
+.app_closing {
+  display:block;
+  margin-top: 30px;
+  text-align: right;
+  margin-right: 30px;
+  font-weight: 700;
+  font-size:0.8rem;
+  color:	#7a7777;
+  opacity: 65%;
+  transition: transform 0.5s ease-in-out;
+  transform-origin:right;
+  text-decoration:underline;
+}
+
+.app_closing:hover {
+ transform: scale(1.05);
+ color:white;
+ opacity:80%;
+}
+
+
