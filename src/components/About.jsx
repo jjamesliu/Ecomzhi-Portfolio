@@ -9,9 +9,6 @@ export default function About() {
                 optimize listings, and increase their profitability. My focus now is on building direct brand relationships 
                 and securing wholesale partnerships that unlock long-term growth and mutual success.
             </p>
-            <p className="about_closing">
-                If you’re a brand looking to scale on Amazon or explore wholesale opportunities, let’s connect and build something great together.
-            </p>
         </div>
     )
 }

@@ -1,0 +1,25 @@
+.Results {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+    text-align:left;
+}
+
+.Results h3{
+    font-size: 1.7rem;
+    text-decoration: underline;
+    margin-bottom: 20px;
+}
+
+
+.amazon_pic1,
+.amazon_pic2{
+    width: 100%;
+    margin-bottom: 18px;
+    border-radius: 6px;
+    transition: transform 0.3s ease-in-out; /* Smooth zoom effect */
+}
+
+.Results img:hover {
+  transform: scale(1.10); /* Zoom in slightly on hover */
+}

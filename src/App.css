@@ -14,6 +14,17 @@
 
 }
 
+.about_closing {
+    margin:0 30px;
+    font-weight:700;
+    font-size:0.9rem;
+    color: #dcdcdc;
+    line-height: 1.3;
+    opacity: 85%;
+}
+
+
+
 .app_closing {
   display:block;
   margin-top: 30px;
@@ -29,7 +40,7 @@
 }
 
 .app_closing:hover {
- transform: scale(1.05);
+ transform: scale(1.1);
  color:white;
  opacity:80%;
 }
