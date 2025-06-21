@@ -16,7 +16,7 @@ function App() {
         If you’re a brand looking to scale on Amazon or explore wholesale opportunities, let’s connect and build something great together.
       </p>
 
-      <a className="app_closing" href="https://jjamesliu.github.io/james-portfolio/" target="_blank">
+      <a className="app_closing" href="https://jjamesliu.github.io/James-Portfolio-V2/" target="_blank">
       Check out my dev portfolio →
       </a>
     </div>
